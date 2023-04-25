@@ -1,4 +1,4 @@
-cask "cli-kintone" do
+cask "kintone-cli" do
   version "1.3.3"
   sha256 "ef7d4cbb52cd6a4167507de3bbbb3962b79347c78816f7ef70f17bb712559964"
 
